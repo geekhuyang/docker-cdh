@@ -52,7 +52,6 @@ etc.
 - Apache Oozie
 - Apache Hive
 - Hue (Apache licensed)
-- Apache Flume
 - Cloudera Impala (Apache licensed)
 - Apache Sentry
 - Apache Sqoop
